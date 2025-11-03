@@ -25,7 +25,7 @@ Es una **versión personalizada y mejorada** del proyecto original de [Sotoboter
 ## 🧩 Relación con el Frontend
 
 Este backend está diseñado para trabajar junto con el frontend Angular disponible en el siguiente repositorio:  
-👉 [**Angular CRUD Frontend (Proyecto asociado)**]([https://github.com/tu-usuario/tu-repo-frontend](https://github.com/jorgealamoo/springboot-course-front))
+👉 [**Angular CRUD Frontend (Proyecto asociado)**]([https://github.com/jorgealamoo/springboot-course-front])
 
 ---
 
